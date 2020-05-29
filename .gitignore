@@ -1,0 +1,12 @@
+**/.DS_Store
+**/*.pyc
+**/*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+
+.idea/

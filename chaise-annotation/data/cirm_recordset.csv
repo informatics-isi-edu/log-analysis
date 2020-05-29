@@ -1,0 +1,1342 @@
+"c_table","c_facet"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""KL""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""KL""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""KL""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""KLRG2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""KLRG2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""KLRG2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""AD""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""AD""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""AD""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGR""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGR""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGR""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""ADGRG6""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20140312-HuKidCR16.5b-JAM-2-60-000-1""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20140312-HuKidCR16.5b-JAM-2-60-000-1""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20140312-HuKidCR16.5b-JAM-2-60-000-1""], ""source"": ""*""}]}"
+"Microscopy:Collection","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, ""RID""], ""choices"": [""271A""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, ""RID""], ""choices"": [""271A""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""RID"", ""choices"": [""271A""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""Title"", ""choices"": [""Mouse SISH data for Spatial Mapping in the kidney""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""Title"", ""choices"": [""Mouse SISH data for Spatial Mapping in the kidney""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""232W""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20141019-SW4 UGS cryo-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141019-SW4 UGS cryo-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20141115-mKD15.5eSwWebSW-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141115-mKD15.5eSwWebSW-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141208-mKD15.5eWTSW5 -EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141208-mKD15.5eWTSW5 -EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141208-mKD15.5eWTSW6""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20141208-mKD15.5eWTSW6""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW10-""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW10-""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW8-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW8-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW8-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW8-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW13-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150115-mKD15.5eWTSW13-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150130-mKD15.5eWTSW13-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150130-mKD15.5eWTSW13-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150216-mKD15.5eWTSW17-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150216-mKD15.5eWTSW17-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150216-mKD15.5eWTSW18-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150216-mKD15.5eWTSW18-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150217-mKD15.5eWTSW19-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150217-mKD15.5eWTSW19-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20150217-mKD15.5eWTSW20-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20150217-mKD15.5eWTSW20-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160705-mKD15.5eWTSW-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160705-mKD15.5eWTSW-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}, {""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}, {""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}, {""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}, {""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:species","{""and"": [{""source"": ""RID"", ""choices"": [""6PP""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_species_fkey""]}, ""RID""], ""choices"": [""6PP""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_species_fkey""]}, ""RID""], ""choices"": [""6PP""]}]}"
+"Microscopy:species",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_species_fkey""]}, ""RID""], ""choices"": [""6PP""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_species_fkey""]}, ""RID""], ""choices"": [""6PP""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_species_fkey""]}, ""RID""], ""choices"": [""6PP""]}]}"
+"Microscopy:species",NULL
+"Microscopy:Slide","{""and"": [{""source"": ""RID"", ""choices"": [""1SAP""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_Slide ID_fkey""]}, ""RID""], ""choices"": [""1SAP""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_Slide ID_fkey""]}, ""RID""], ""choices"": [""1SAP""]}]}"
+"Microscopy:Slide",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""IVV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""source"": ""Number of Scans"", ""not_null"": true}, {""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""source"": ""Number of Scans"", ""not_null"": true}, {""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": ""Number of Scans"", ""not_null"": true}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}, {""source"": ""species"", ""choices"": [""Other""]}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""1VV2""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:Scan",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:User",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20180807""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180807""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20180807""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleSh""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleSh""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleSh""], ""source"": ""*""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20180719-mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""mKDASix250maleS""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:tissue",NULL
+"Microscopy:tissue",NULL
+"Microscopy:tissue",NULL
+"Microscopy:tissue",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment",NULL
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu"", ""Greg Alvarado""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu"", ""Greg Alvarado""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu"", ""Greg Alvarado""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu"", ""Greg Alvarado""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Experiment","{""and"": [{""source"": ""Initials"", ""choices"": [""Jing Liu"", ""Greg Alvarado""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Slide",NULL
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Slide","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:gene",NULL
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:gene",NULL
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:gene",NULL
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""search"": [""HE""], ""source"": ""*""}, {""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:gene",NULL
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Scans""}]}"
+"Microscopy:Specimen","{""and"": [{""source"": ""Species"", ""choices"": [""Mouse""]}, {""source"": ""Age"", ""choices"": [""adult""]}, {""source"": [{""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Tissue"", ""choices"": [""Kidney""]}, {""ranges"": [{""min"": 0}, {""max"": 1}], ""source"": ""Number of Slides""}]}"
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:gene",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:Specimen",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""Experiment Type"", ""choices"": [""H&E""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""adult""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""Cited1""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""Cited1""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""Cited1""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""Cited1""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y9M""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y9M""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y9M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y9M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y9M""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y9M""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y9M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z48""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z48""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""age"", ""choices"": [""9 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks"", ""10.4 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks"", ""10.4 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""age"", ""choices"": [""9 weeks"", ""10.4 weeks""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z48""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Jill McMahon""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""age"", ""choices"": [""9 weeks"", ""10.4 weeks""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y4M""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y4M""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}, {""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}, {""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20160523-hKD15wWT1-EAR""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Y40""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Y40""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Human""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2a""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2a""], ""source"": ""*""}, {""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2a""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2a""], ""source"": ""*""}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""search"": [""Kdm2b""], ""source"": ""*""}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""20170403-mKD15.5eWTSW-ER""], ""source"": ""*""}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""kdm""], ""source"": ""*""}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm2b""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""search"": [""kdm2b""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm2b""], ""source"": ""*""}, {""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""search"": [""kdm2b""], ""source"": ""*""}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:gene",NULL
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:probe",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:gene",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": ""submitter"", ""choices"": [""Elisabeth Rutledge""]}, {""source"": ""species"", ""choices"": [""Mouse""]}, {""source"": ""age"", ""choices"": [""15.5 embryonic day""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Specimen ID_fkey""]}, {""inbound"": [""Microscopy"", ""specimen_gene_Specimen ID_fkey""]}, {""outbound"": [""Microscopy"", ""specimen_gene_Gene ID_fkey""]}, ""term""], ""choices"": [""Wild Type"", ""Swiss (Webster)""]}, {""source"": [{""outbound"": [""Microscopy"", ""Scan_Experiment ID_fkey""]}, {""inbound"": [""Microscopy"", ""experiment_probe_Experiment ID_fkey""]}, {""outbound"": [""Microscopy"", ""experiment_probe_Probe ID_fkey""]}, ""term""], ""choices"": [""A16"", ""Etv4"", ""Etv5"", ""Hs3a1"", ""Hs3b1"", ""Wnt11"", ""Ret"", ""Kdm2a"", ""Kdm2b"", ""Wnt7b"", ""Wnt9b""]}, {""source"": ""Experiment Type"", ""choices"": [""SISH""]}, {""source"": ""tissue"", ""choices"": [""Kidney""]}]}"
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection","{""and"": [{""source"": ""RID"", ""choices"": [""2Z84""]}]}"
+"Microscopy:Scan","{""and"": [{""source"": [{""inbound"": [""Microscopy"", ""collection_scan_Scan ID_fkey""]}, {""outbound"": [""Microscopy"", ""collection_scan_Collection ID_fkey""]}, ""RID""], ""choices"": [""2Z84""]}]}"
+"Microscopy:Collection",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Scan",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
+"Microscopy:Collection",NULL
